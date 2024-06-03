@@ -1,0 +1,27 @@
+name: flutter_canvas_firebase_apis
+description: A Flutter package for connecting Flutter applications with Firebase on Android and IOS developed by fluttercanvas.io.
+version: 0.0.3
+homepage: https://github.com/fluttercanvas/flutter_canvas_firebase_apis
+license: MIT
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  cloud_firestore: ^4.12.2
+  firebase_auth: ^4.12.1
+  firebase_core: ^2.21.0
+  flutter:
+    sdk: flutter
+  google_sign_in: ^6.1.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+   assets:
+    - README.md
+    - LICENSE
