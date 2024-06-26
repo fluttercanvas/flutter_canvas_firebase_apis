@@ -26,3 +26,5 @@ To use this package and set up Firebase in your Flutter project, follow these st
     ```dart
         firebaseInit();
     ```
+
+For more detailed instructions and examples, refer to the Medium article- https://medium.com/@fluttercanvas/supercharge-your-flutter-app-development-with-our-flutter-canvas-firebase-apis-library-5413ad3b22d8
