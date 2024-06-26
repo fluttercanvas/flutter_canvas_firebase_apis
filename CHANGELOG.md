@@ -5,3 +5,7 @@
 ## 0.0.3
 
 * Example Added
+
+## 0.0.4
+
+* Read me updated
